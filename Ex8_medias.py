@@ -5,3 +5,5 @@
 #Exemplo de saida esperada:
 # >>> Media: 5.8
 # >>> Maior nota: 7.7
+
+#Entrega: 11/03/2015 - 13h
